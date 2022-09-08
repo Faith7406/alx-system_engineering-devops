@@ -12,3 +12,4 @@ this script sis for deliting all the regular files (not the directories) with a 
 this script is for the number of directories and sub-directories in the current directory.
 this script is for Display lines containing the pattern “root” from the file /etc/passwd
 this script  removes all letters c and C from input.
+this script  reverse its input.
