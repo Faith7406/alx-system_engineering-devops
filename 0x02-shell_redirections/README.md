@@ -15,3 +15,4 @@ this script  removes all letters c and C from input.
 this script  reverse its input.
 this script displays all users and their home directories, sorted by users.
 finds all empty files and directories in the current directory and all sub-directories.
+this script lists all the files with a .gif extension in the current directory and all its sub-directories
