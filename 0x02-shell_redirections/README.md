@@ -11,3 +11,4 @@ this script is for duplicating  the last line of the file iacta
 this script sis for deliting all the regular files (not the directories) with a .js 
 this script is for the number of directories and sub-directories in the current directory.
 this script is for Display lines containing the pattern “root” from the file /etc/passwd
+this script  removes all letters c and C from input.
