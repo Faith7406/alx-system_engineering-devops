@@ -14,3 +14,4 @@ this script is for Display lines containing the pattern “root” from the file
 this script  removes all letters c and C from input.
 this script  reverse its input.
 this script displays all users and their home directories, sorted by users.
+finds all empty files and directories in the current directory and all sub-directories.
